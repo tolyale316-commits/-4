@@ -14,6 +14,7 @@ int main() {
         }
         printf("\n");
         printf("Введите число N: ");
+        printf("Введите число N: ");
     }
     return 0;
 }
